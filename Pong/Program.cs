@@ -320,7 +320,6 @@ namespace Tetris
         VerticalPad rightPad;
         Ball ball;
 
-        int pace = 200;  // 2ms per move.
         Stopwatch stopWatch = new Stopwatch();
 
         static void Main(string[] args)
